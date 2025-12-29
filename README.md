@@ -1,4 +1,4 @@
-# todo-python
+# todo-python (GUI)
 A To-Do List Application written in Python with GUI features
 
 📖 Overview
